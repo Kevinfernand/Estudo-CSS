@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+   box-sizing: border-box;
+   font-family: Arial;
+}
+header{
+  height: 20vh;
+  background-color: #602bfe;
+  text-align: center;
+}
+header > h2{
+  padding: 1.5rem;
+}
+main{
+  height: 100vh;
+  background-color: #2cff50;
+  text-align: center;
+  
+}
+main > h2{
+  padding: 3rem;
+}
+main > p{
+  padding: 2rem;
+}
+footer{
+  height: 20vh;
+  background-color: #2cedff;
+  text-align: center;
+}
+footer > h2{
+  padding: 1.5rem;
+}
