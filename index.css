@@ -1,9 +1,4 @@
-*{
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
-   font-family: Arial;
-}
+
 body{
   height: 100%;
 }
@@ -12,30 +7,15 @@ header{
   background-color: #202C39 ;
   text-align: center;
 }
-header > h2{
-  padding: 1.5rem;
-}
 main{
   height: 100vh;
   background-image: linear-gradient(to bottom,#202839,#283845 ,#B8B08D ,#F2D492,#F29559);
   text-align: center;
   
 }
-main > h2{
-  padding: 3rem;
-}
-main > p{
-  padding: 2rem;
-}
+
 footer{
   height: 20vh;
   background-color:#f2905f;
   text-align: center;
-}
-footer > h2{
-  padding: 1.5rem;
-}
-.proximaP{
-  background-color:#3f3f3f;
-  
 }
