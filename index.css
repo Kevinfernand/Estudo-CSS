@@ -1,12 +1,15 @@
 *{
-  margin: 0;
-  padding: 0;
+   margin: 0;
+   padding: 0;
    box-sizing: border-box;
    font-family: Arial;
 }
+body{
+  height: 100%;
+}
 header{
   height: 20vh;
-  background-color: #602bfe;
+  background-color: #95dbc1;
   text-align: center;
 }
 header > h2{
@@ -14,7 +17,7 @@ header > h2{
 }
 main{
   height: 100vh;
-  background-color: #2cff50;
+  background-image: linear-gradient(to bottom,#48ff2c,#2cffb1);
   text-align: center;
   
 }
@@ -31,4 +34,8 @@ footer{
 }
 footer > h2{
   padding: 1.5rem;
+}
+.proximaP{
+  background-color:#3f3f3f;
+  
 }
