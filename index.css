@@ -17,7 +17,7 @@ header > h2{
 }
 main{
   height: 100vh;
-  background-image: linear-gradient(to bottom,#283845 ,#B8B08D ,#F2D492,#F29559);
+  background-image: linear-gradient(to bottom,#202839,#283845 ,#B8B08D ,#F2D492,#F29559);
   text-align: center;
   
 }
@@ -29,7 +29,7 @@ main > p{
 }
 footer{
   height: 20vh;
-  background-color: ##ef8744;
+  background-color:#f2905f;
   text-align: center;
 }
 footer > h2{
