@@ -17,7 +17,7 @@ header > h2{
 }
 main{
   height: 100vh;
-  background-image: linear-gradient(to bottom,#283845 ,#B8B08D ,F2D492);
+  background-image: linear-gradient(to bottom,#283845 ,#B8B08D ,#F2D492);
   text-align: center;
   
 }
