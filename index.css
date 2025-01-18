@@ -3,6 +3,7 @@
   margin: 0; /*magem*/
 }
 body{
+  display: block;
    height: 100%; /*altura*/
 }
 header{
@@ -11,7 +12,6 @@ header{
   text-align: center; /*texto no cetro*/
 }
 .ttlr{
-  margin: 16px;
   font-size: 3em;
   color: #B8B08D;
   font-family: "Bebas Neue", serif;
