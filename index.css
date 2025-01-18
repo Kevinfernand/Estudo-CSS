@@ -5,19 +5,29 @@ body{
    height: 100%; /*altura*/
 }
 header{
-  height: 20vh; /*altura*/
-  background-color: #202C39 ; /*cor de fundo*/
+  height: 50px; /*altura*/
+  background-color: #263545 ; /*cor de fundo*/
   text-align: center; /*texto no cetro*/
+}
+.ttl{
+  color: #B8B08D;
 }
 main{
-  height: 100vh; /*altura*/
+  height: 70em; /*altura*/
   background-image: linear-gradient(to bottom,#202839,#283845 ,#B8B08D ,#F2D492,#F29559);
   text-align: center; /*texto no cetro*/
-  
 }
-
+p{
+  color: #B8B08D;
+  margin: 30px;
+  text-align: justify;
+}
+ul{
+  color: #B8B08D;
+  text-align: left;
+}
 footer{
-  height: 20vh; /*altura*/
+  height: 50px; /*altura*/
   background-color:#ee8b4b; /*cor de fundo*/
   text-align: center; /*texto no cetro*/
 }
