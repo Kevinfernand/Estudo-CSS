@@ -1,23 +1,22 @@
 
 body{
-  
   height: 100%; /*altura*/
   margin: 0; /*magem*/
 }
 header{
-  height: 20px;
-  background-color: #202C39 ;
-  text-align: center;
+  height: 20px; /*altura*/
+  background-color: #202C39 ; /*cor de fundo*/
+  text-align: center; /*texto no cetro*/
 }
 main{
-  height: 100vh;
+  height: 300px; /*altura*/
   background-image: linear-gradient(to bottom,#202839,#283845 ,#B8B08D ,#F2D492,#F29559);
-  text-align: center;
+  text-align: center; /*texto no cetro*/
   
 }
 
 footer{
-  height: 20vh;
-  background-color:#f2905f;
-  text-align: center;
+  height: 20px; /*altura*/
+  background-color:#f2905f; /*cor de fundo*/
+  text-align: center; /*texto no cetro*/
 }
