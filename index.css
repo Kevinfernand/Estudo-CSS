@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 *{
   margin: 0; /*magem*/
 }
@@ -5,12 +6,24 @@ body{
    height: 100%; /*altura*/
 }
 header{
-  height: 50px; /*altura*/
+  height: 60px; /*altura*/
   background-color: #263545 ; /*cor de fundo*/
   text-align: center; /*texto no cetro*/
 }
-.ttl{
+.ttlr{
+  margin: 5px;
+  font-size: 3em;
   color: #B8B08D;
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.ttl{
+  font-size: 3em;
+  color: #B8B08D;
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 main{
   height: 70em; /*altura*/
@@ -21,19 +34,29 @@ main{
   color: #B8B08D;
   margin: 20px;
   text-align: justify;
+  font-weight: bold;
+  font-family: Sans-Serif;
 }
 .texcolorr{
   color: #F2D492;
   margin: 20px;
   text-align: justify;
+  font-weight: bold;
+  font-family: Sans-Serif;
 }
 .ttll{
+  font-size: 3em;
   color: #2d3f4d;
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 .textcolo{
   color: #2d3f4d;
   margin: 20px;
   text-align: justify;
+  font-weight: bold;
+  font-family: Sans-Serif;
 }
 footer{
   height: 50px; /*altura*/
