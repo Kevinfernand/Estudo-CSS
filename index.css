@@ -14,17 +14,35 @@ header{
 }
 main{
   height: 70em; /*altura*/
-  background-image: linear-gradient(to bottom,#202839,#283845 ,#B8B08D ,#F2D492,#F29559);
+  background-image: linear-gradient(to bottom,#202839,#2d3f4d ,#B8B08D ,#F2D492,#F29559);
   text-align: center; /*texto no cetro*/
 }
-p{
+.texcolor{
   color: #B8B08D;
-  margin: 30px;
+  margin: 20px;
   text-align: justify;
 }
 ul{
   color: #B8B08D;
   text-align: left;
+}
+.texcolorr{
+  color: #F2D492;
+  margin: 20px;
+  text-align: justify;
+}
+.ttll{
+  color: #F2D492;
+}
+.texcolo{
+  color: #F2D492;
+  margin: 20px;
+  text-align: justify;
+}
+.textcolo{
+  color: #2d3f4d;
+  margin: 20px;
+  text-align: justify;
 }
 footer{
   height: 50px; /*altura*/
