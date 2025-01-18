@@ -1,7 +1,8 @@
-
 *{
-  height: 100%; /*altura*/
   margin: 0; /*magem*/
+}
+body{
+   height: 100%; /*altura*/
 }
 header{
   height: 20vh; /*altura*/
