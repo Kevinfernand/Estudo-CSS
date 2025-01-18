@@ -1,10 +1,11 @@
 
 body{
-  height: 100%;
-  margin: 0;
+  
+  height: 100%; /*altura*/
+  margin: 0; /*magem*/
 }
 header{
-  height: 20vh;
+  height: 20px;
   background-color: #202C39 ;
   text-align: center;
 }
