@@ -5,36 +5,49 @@ body{
    height: 100%; /*altura*/
 }
 header{
-  height: 60px; /*altura*/
+  height: 70px; /*altura*/
   background-color: #263545 ; /*cor de fundo*/
-  text-align: center; /*texto no cetro*/
 }
 .ttlr{
   display: inline-block;
-  height: 90px;
-  line-height: 90px;
-  
-  font-size: 3em;
-  color: #B8B08D;
-  font-family: "Bebas Neue", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.ttl{
-  display: inline-block;
   height: 60px;
   line-height: 60px;
-  
   font-size: 3em;
   color: #B8B08D;
-  font-family: "Bebas Neue", serif;
+  font-family: "Bebas Neue", Sans-Serif;
   font-weight: 400;
   font-style: normal;
+  text-align: left;
+  padding-left: 20px;
+}
+a{
+  color: #fff;
+  font-size: 20px;
+  font-family: "Bebas Neue", serif;
+  font-weight: 500;
+  text-decoration: none;
+  margin-right: 30px;
+}
+#button{
+  display: inline-block;
+  background-color: #1379c8; /*cor de fundo*/
+  height: 60px; /*ultura*/
+  line-height: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 5px 5px 0px #000; /*colocar sombra*/
 }
 main{
   height: 70em; /*altura*/
   background-image: linear-gradient(to bottom,#202839,#2d3f4d ,#B8B08D ,#F2D492,#F29559);
   text-align: center; /*texto no cetro*/
+}
+.ttl{
+  font-size: 3em;
+  color: #B8B08D;
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 .texcolor{
   color: #B8B08D;
