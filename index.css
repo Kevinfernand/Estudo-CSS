@@ -2,8 +2,9 @@ header{
   background-color: #263545 ; /*cor de fundo*/
 }
 nav{
-  background-color: #1e5580;
   text-align: right;
+  background-color: #1e5580;
+  
 }
 .ttlr{
   font-size: 3em;
