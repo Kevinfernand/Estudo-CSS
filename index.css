@@ -1,15 +1,13 @@
-*{
+body {
   margin: 0; /*magem*/
 }
-body{
-   height: 100%; /*altura*/
-}
 header{
-  height: 70px; /*altura*/
   background-color: #263545 ; /*cor de fundo*/
 }
+nav{
+  background-color: #4a94ce;
+}
 .ttlr{
-  display: inline-block;
   font-size: 3em;
   color: #B8B08D;
   font-family: "Bebas Neue", Sans-Serif;
@@ -27,8 +25,8 @@ a{
   margin-right: 30px;
 }
 #button{
-  display: inline-block;
-  background-color: #1379c8; /*cor de fundo*/
+  display: inline-block; /*deixa o display como blocos*/
+  background-color: #319df2;/*cor de fundo*/
   height: 60px; /*ultura*/
   line-height: 60px;
   padding-left: 20px;
