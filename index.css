@@ -2,6 +2,7 @@ header{
   background-color: #263545 ; /*cor de fundo*/
 }
 nav{
+  margin: 0px;
   text-align: right;
 }
 .higema{
