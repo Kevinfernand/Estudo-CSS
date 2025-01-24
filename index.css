@@ -1,4 +1,5 @@
 header{
+  margin: 0px;
   background-color: #263545 ; /*cor de fundo*/
 }
 nav{
@@ -6,6 +7,7 @@ nav{
   text-align: right;
 }
 .higema{
+  margin: 0px;
   padding: 20px; 
   font-size: 3em;
   color: #B8B08D;
@@ -33,6 +35,7 @@ a{
   box-shadow: 5px 5px 0px #000; /*colocar sombra*/
 }
 main{
+  margin: 0px;
   height: 70em; /*altura*/
   background-image: linear-gradient(to bottom,#202839,#2d3f4d ,#B8B08D ,#F2D492,#F29559);
   text-align: center; /*texto no cetro*/
