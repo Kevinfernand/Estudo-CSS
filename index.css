@@ -1,20 +1,21 @@
 header{
   margin: 0px;
   background-color: #263545 ; /*cor de fundo*/
+
 }
 nav{
   margin: 0px;
-  text-align: right;
+  text-align: center;
 }
 .higema{
-  margin: 0px;
+  text-align: center;
+  margin: 0px auto;
   padding: 20px; 
-  font-size: 3em;
+  font-size: 5em;
   color: #B8B08D;
   font-family: "Bebas Neue", Sans-Serif;
   font-weight: 400;
   font-style: normal;
-  text-align: left;
   padding-left: 10px;
 }
 a{
